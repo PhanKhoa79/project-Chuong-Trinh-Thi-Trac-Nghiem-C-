@@ -1,0 +1,82 @@
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\bin\Debug\Nhom10.exe.config
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\bin\Debug\Nhom10.exe
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\bin\Debug\Nhom10.pdb
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.AssemblyReference.cache
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.Login.resources
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.Properties.Resources.resources
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.GenerateResource.cache
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.CoreCompileInputs.cache
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.exe
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.pdb
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.TrangChu.resources
+C:\Users\Khoahihi79\source\repos\Nhom10\Nhom10\obj\Debug\Nhom10.DangKi.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\bin\Debug\Nhom10.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\bin\Debug\Nhom10.exe
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\bin\Debug\Nhom10.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.DangKi.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Login.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.TrangChu.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.exe
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Formcauhoi.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Formcathi.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Formketqua.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Formmonthi.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Formquanly.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom10\Nhom10\obj\Debug\Nhom10.Formthisinh.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\bin\Debug\Nhom10.exe.config
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\bin\Debug\Nhom10.exe
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\bin\Debug\Nhom10.pdb
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.AssemblyReference.cache
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.DangKi.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Formketqua.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Formmonthi.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Formthisinh.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Login.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Properties.Resources.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Formcauhoi.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.GenerateResource.cache
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.CoreCompileInputs.cache
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.exe
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.pdb
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.Formdethi.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.FormMoDau.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.fSinhVien.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.fAdmin.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.fGiangVien.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.fBaiThi.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.fThongTinTaiKhoan.resources
+C:\Users\Khoahihi79\Downloads\Nhom10\Nhom10\obj\Debug\Nhom10.fQuanLyTaiKhoan.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\bin\Debug\Nhom10.exe
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\bin\Debug\Nhom10.exe.config
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.AssemblyReference.cache
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.SuggestedBindingRedirects.cache
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.ResolveComReference.cache
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.DangKi.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fBaiThi.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Formcauhoi.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Formdethi.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Formketqua.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.FormMoDau.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Formmonthi.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Formthisinh.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fQuanLyTaiKhoan.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fSinhVien.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fThongTinTaiKhoan.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Login.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.Properties.Resources.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fAdmin.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fGiangVien.resources
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.GenerateResource.cache
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.csproj.CoreCompileInputs.cache
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.exe
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.pdb
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\bin\Debug\Nhom10.pdb
+H:\Project-Chuong-Trinh-Trac-Nghiem-C-\Nhom10\Nhom10\obj\Debug\Nhom10.fChiTietDeThi.resources

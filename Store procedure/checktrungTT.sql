@@ -1,0 +1,8 @@
+CREATE FUNCTION CheckTT(@IdSinhVien nvarchar(50), @SDT varchar(10))
+RETURNS INT
+AS
+BEGIN
+DECLARE @count INT
+SET @count = (SELECT COUNT(*) FROM SINHVIEN WHERE IdSinhVien = @IdSinhVien OR SDT = @SDT)
+RETURN @count
+END
